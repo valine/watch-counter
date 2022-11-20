@@ -13,5 +13,6 @@ struct counter_Watch_AppApp: App {
         WindowGroup {
             ContentView()
         }
+                
     }
 }
